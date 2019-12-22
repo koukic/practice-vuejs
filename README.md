@@ -1,5 +1,7 @@
 # task-vuejs
 
+An app to practice the basics of vuerouter, vuex, and vuecli
+
 ## Project setup
 ```
 npm install
